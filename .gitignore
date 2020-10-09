@@ -1,0 +1,6 @@
+node_modules/*
+*.m3u
+*.mp3
+package-lock.json
+
+playlist/
