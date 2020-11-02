@@ -1,4 +1,4 @@
-m3u2AudioFile
+SoundCloud Or M3U files downloader and single file composer
 =============
 
 To download m3u files

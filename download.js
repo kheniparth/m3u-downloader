@@ -27,7 +27,7 @@ const mp3Promises = mp3Urls
         })
     })
 
-console.log(`Total ${mp3Promises.length} promices created`)
+console.log(`Total ${mp3Promises.length} promises created`)
 Promise.all(mp3Promises)
     .then(() => {
         console.log(`Downloaded all files from playlist at ${dir} path`)
